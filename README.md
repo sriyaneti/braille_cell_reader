@@ -1,4 +1,4 @@
-# braille_cell_reader
+# Braille Cell Reader
 
 Refreshable Braille cell that translates text into tactile Braille, using an Arduino to drive geared stepper motors that rotate CAD-designed, 3D-printed cam drums encoding all 8 three-dot patterns per column.
 Zero-holding-power design that eliminates the heat and power draw of solenoid-based displays, with absolute-position stepper control and homing for accurate dot placement.
@@ -12,6 +12,6 @@ Zero-holding-power design that eliminates the heat and power draw of solenoid-ba
 - **Microcontroller:** Arduino UNO R4 WiFi
 - **Actuators:** 28BYJ-48 geared stepper motors with ULN2003 driver boards
 - **Mechanical parts:** Custom-designed in CAD and 3D printed in PLA (cam drums, mounts, etc.)
-- **Braille pins:** cut PLA, sanded smooth for comfortable reading
+- **Braille pins:** Cut PLA, sanded smooth for comfortable reading
 
 Build instructions to be added soon.
