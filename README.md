@@ -4,12 +4,14 @@ Refreshable Braille cell that translates text into tactile Braille, using an Ard
 Zero-holding-power design that eliminates the heat and power draw of solenoid-based displays, with absolute-position stepper control and homing for accurate dot placement.
 
 # Demo links:
-[front_demo](https://drive.google.com/file/d/1_-8ndNTJ1PYaaHjtmX2QQfxPWe5ZiBVG/view?usp=sharing)
-[side_demo]([url](https://drive.google.com/file/d/1G9ri9P9Pt1gPrAvTQP5AE165cstWuQF2/view?usp=sharing))
+[front_demo](https://drive.google.com/file/d/1_-8ndNTJ1PYaaHjtmX2QQfxPWe5ZiBVG/view?usp=sharing) <br>
+
+[side_demo](https://drive.google.com/file/d/1G9ri9P9Pt1gPrAvTQP5AE165cstWuQF2/view?usp=sharing)
 
 # Components:
-- Stepper Motor: ____
-- Arudino UNO R4 Wifi
-- CADed all parts
+- **Microcontroller:** Arduino UNO R4 WiFi
+- **Actuators:** 28BYJ-48 geared stepper motors with ULN2003 driver boards
+- **Mechanical parts:** Custom-designed in CAD and 3D printed in PLA (cam drums, mounts, etc.)
+- **Braille pins:** cut PLA, sanded smooth for comfortable reading
 
-Detailed instructions coming soon.
+Build instructions to be added soon.
